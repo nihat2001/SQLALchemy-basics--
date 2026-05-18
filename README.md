@@ -1,1 +1,3 @@
-# SQLALchemy-basics
+**This project demonstrates database management using SQLAlchemy with SQLite and PostgreSQL implementations.**
+
+**The SQLite script simulates a chatbot history system that records message models (id, role, content) with conditional checks and prints them. The PostgreSQL script defines a user model (id, name, email), automatically creates the table, and safely inserts new records by checking for existing data. Both scripts include try-except blocks for robust error handling and session management.**
